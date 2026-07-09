@@ -1,9 +1,17 @@
 baseURL = "https://3dprintcereal.com/"
 languageCode = "en-us"
 title = "3D Print Cereal"
-theme = "printwire"
+[outputs]
+  home = ["HTML", "JSON"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [params]
+siteName      = "3D Print Cereal"
+logoHtml      = '3D&nbsp;PRINT&nbsp;<span class="ed-logo-accent">CEREAL</span>'
 tagline       = "Grain-based 3D food printing — custom breakfast shapes, nutritional engineering, and novel food textures at scale."
 description   = "3D Print Cereal covers the emerging field of grain food additive manufacturing — from personalised nutrition platforms to custom shape production for the food industry."
 keywords      = "3D print cereal, food additive manufacturing, breakfast food printing, grain extrusion, personalised food, custom cereal shapes"
