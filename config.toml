@@ -13,7 +13,7 @@ title = "3D Print Cereal"
 siteName      = "3D Print Cereal"
 logoHtml      = '3D&nbsp;PRINT&nbsp;<span class="ed-logo-accent">CEREAL</span>'
 tagline       = "Grain-based 3D food printing — custom breakfast shapes, nutritional engineering, and novel food textures at scale."
-description   = "3D Print Cereal covers the emerging field of grain food additive manufacturing — from personalised nutrition platforms to custom shape production for the food industry."
+description   = "3D Print Cereal is a PrintWire network site about 3D printed cereal and snack foods. PrintWire passes quote requests to specialised manufacturers and returns pricing. PrintWire does not manufacture parts itself."
 keywords      = "3D print cereal, food additive manufacturing, breakfast food printing, grain extrusion, personalised food, custom cereal shapes"
 logoEmoji     = "🌾"
 contactEmail  = "maxdavisgroup@gmail.com"
